@@ -1,2 +1,2 @@
 # justagame
-just a game
+Maybe life is just a game
